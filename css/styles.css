@@ -70,8 +70,12 @@ main > .tagline {
 	height: 2.65rem;
 }
 
+h2 {
+	text-align: left;
+}
 .projects {
 	text-align: left;
+	padding-bottom: 1em;
 }
 
 .projects ul {
