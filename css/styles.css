@@ -34,12 +34,16 @@ html {
 
 /* Custom Styles */
 
-main:not(.projects) {
+main {
 	display: flex;
 	flex-direction: column;
+	flex: 1;
+	padding: 0 30px;
+}
+
+main:not(.projects) {
 	min-height: 100vh;
 	justify-content: center;
-	padding: 0 30px;
 	text-align: center;
 }
 
