@@ -1,7 +1,4 @@
 # Dev Landing Page
 
-My landing page from [Dinesh Pandiyan](https://flexdinesh.github.io)
+Hello, I am Guergana.
 
-## License
-
-MIT © Dinesh Pandiyan
