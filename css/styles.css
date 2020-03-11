@@ -70,6 +70,14 @@ main > .tagline {
 	height: 2.65rem;
 }
 
+.projects {
+	text-align: left;
+}
+
+.projects ul {
+	list-style: square;
+}
+
 .projects ul li {
 	display: block;
 }
