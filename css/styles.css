@@ -34,7 +34,7 @@ html {
 
 /* Custom Styles */
 
-main {
+main:not(.projects) {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
@@ -73,15 +73,13 @@ main > .tagline {
 h2 {
 	text-align: left;
 }
-.projects {
+
+ul.projects {
 	text-align: left;
 	padding-bottom: 1em;
-}
-
-.projects ul {
 	list-style: square;
 }
 
-.projects ul li {
+ul.projects li {
 	display: block;
 }
