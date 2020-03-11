@@ -83,7 +83,3 @@ ul.projects {
 	padding-bottom: 1em;
 	list-style: square;
 }
-
-ul.projects li {
-	display: block;
-}
